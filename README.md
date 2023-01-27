@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @irfansaf
-- 👀 I’m interested in Cloud Computing, Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning .NET
 - 💞️ I’m not looking yet to collaborate on any project
 - 📫 You can reach me by send email to  : irfansaf7@gmail.com
 
