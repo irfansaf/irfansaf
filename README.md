@@ -6,9 +6,7 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - Laravel
 - Java
 - C++
-- JavaScript (learning)
-- EJS (learning)
-- ReactJS (learning)
+- JavaScript
 
 ## Projects
 - [Trading Web Application](https://github.com/irfansaf/Trading-Web-Application) - Radiant is a web application that allows users to buy and sell stocks using Laravel 10, Tailwind CSS, AlpineJS, AxiosJS, and SwiperJS.
