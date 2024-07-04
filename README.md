@@ -3,7 +3,6 @@
 I'm a student at President University majoring in Information Technology. I'm passionate about programming and I'm constantly improving my skills.
 
 ## Skills
-- Laravel
 - Java
 - Golang
 - TypeScript
