@@ -19,3 +19,5 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - [Email](mailto:irfansaf7@gmail.com)
 
 Feel free to connect with me! I'm always interested in collaborating on new projects and meeting new people. 😄
+
+https://github-readme-stats.vercel.app/api/wakatime?username=irfansaf&api_domain=tracker.irfansaf.my.id&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact
